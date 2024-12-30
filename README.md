@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/andyschwab/ultralight-it-book/blob/main/Ultralight%20IT%20Book.pdf">
+    <img width="300" alt="Ultralight IT Book Cover" src="https://github.com/user-attachments/assets/60b24a51-239b-4c85-8a65-00e1f3042740" />
+  </a>
+</p>
+
 # Ultralight IT
 
 This repository contains the CC-BY-SA release of [Ultralight IT](https://www.amazon.com/Ultralight-Smaller-Organizations-Andrew-Schwab-ebook/dp/B01IVUXXZY) (ISBN: 978-0997869309)
